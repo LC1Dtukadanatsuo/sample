@@ -2,7 +2,6 @@
 
 int main()
 {
-	printf("hello\n");
-
+	printf("ローカルリポジトリで変更した場所\n")
 	return 0;
 }
